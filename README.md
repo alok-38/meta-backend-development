@@ -1,4 +1,4 @@
-![./assets/Metalogo_transparent.avif](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+![Meta Logo](./assets/Metalogo_transparent.avif)
 
 # Meta Back-End Developer Professional Certificate
 
