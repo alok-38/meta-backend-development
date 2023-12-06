@@ -13,3 +13,25 @@ Launch your career as a back-end developer. Build job-ready skills for an in-dem
 - Build a portfolio using your new skills and begin interview preparation including tips for what to expect when interviewing for engineering jobs
 
 - Learn in-demand programming skills and how to confidently use code to solve problems
+
+### Skills you'll gain
+
+- Django (Web Framework)
+
+- API endpoints
+
+- MySQL
+
+- Production environments
+
+- Version Control
+
+- REST APIs
+
+- Authentication and authorization
+
+- Cloud Hosting
+
+- Database (DBMS
+
+- Data Structures and Algorithms
