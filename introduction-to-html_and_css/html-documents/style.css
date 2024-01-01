@@ -3,3 +3,13 @@ html {
     font-size: 20px;
     color: rgb(138, 136, 136);
   }
+
+  ul {
+    background-color: rgb(244, 208, 90);
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  li {
+    margin-left: 20px;
+  }
